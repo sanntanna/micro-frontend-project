@@ -1,2 +1,4 @@
 [submodule "welcome"]
 	url = https://github.com/sanntanna/mfe-welcome
+[submodule "music"]
+	url = https://github.com/sanntanna/mfe-music
